@@ -1,7 +1,7 @@
 # Listado de prácticas
 
 <img src="ElCableAmarillo.png" /><br>
-*Fondo Europeo de Desarrollo Regional - Una manera de hacer Europa*
+
 
 
 

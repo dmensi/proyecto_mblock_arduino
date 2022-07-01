@@ -5,8 +5,7 @@
  * A medida que vamos moviendo el valor del mismo el valor del servo irá
  * cambiando.
  * 
- * @author Miguel Ángel Abellán
- * @company El Cable Amarillo
+ * 
  * @license Creative Commons. Reconocimiento CompartirIgual 4.0 (Se 
  * permite el uso comercial de la obra y de las posibles obras derivadas, 
  * la distribución de las cuales se debe hacer con una licencia igual a 
